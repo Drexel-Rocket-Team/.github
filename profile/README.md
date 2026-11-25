@@ -13,9 +13,10 @@ Our repositories are private to team members.
 
 ## Find us
 
+- Email: [drexelrocketteam@drexel.edu](mailto:drexelrocketteam@drexel.edu)
 - LinkedIn: [Drexel Rocket Team](https://www.linkedin.com/company/drexel-rocket-team)
 - Instagram: [@drexelrocketteam](https://www.instagram.com/drexelrocketteam)
 
 ## Join
 
-Drexel students interested in propulsion, avionics, structures, or software are welcome. Reach out on Instagram or LinkedIn.
+Drexel students interested in propulsion, avionics, structures, or software are welcome. Reach out at [drexelrocketteam@drexel.edu](mailto:drexelrocketteam@drexel.edu).
